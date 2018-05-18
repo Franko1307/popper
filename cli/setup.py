@@ -20,6 +20,7 @@ setup(
     install_requires=[
         'click',
         'requests',
+        'lark-parser',
         'pyyaml'
     ],
     entry_points='''
